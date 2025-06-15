@@ -1,0 +1,12 @@
+[project]
+name = "clarity-clarunit-demo"
+description = ""
+authors = []
+telemetry = false
+cache_dir = "./.cache"
+
+[contracts.do-it]
+path = "contracts/do-it.clar"
+
+[contracts.do-it-test]
+path = "contracts/do-it_test.clar"
