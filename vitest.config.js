@@ -39,6 +39,5 @@ export default defineConfig({
         // add or override options
       },
     },
-    reporters: ["html"],
   },
 });

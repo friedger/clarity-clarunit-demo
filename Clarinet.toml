@@ -8,5 +8,5 @@ cache_dir = "./.cache"
 [contracts.do-it]
 path = "contracts/do-it.clar"
 
-[contracts.do-it-test]
-path = "contracts/do-it_test.clar"
+[contracts.do-it_test]
+path = "tests/do-it_test.clar"
